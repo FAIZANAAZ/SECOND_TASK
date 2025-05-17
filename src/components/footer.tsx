@@ -3,8 +3,8 @@
 import { useState } from "react"
 import Link from "next/link"
 import { Button } from "@/components/ui/button"
-import { Input } from "@/components/ui/input"
-import { Youtube, Facebook, Twitter, Instagram, Linkedin, ChevronDown, ChevronUp, Send, Moon, Sun } from "lucide-react"
+
+import { Youtube, Facebook, Twitter, Instagram, Linkedin, ChevronDown, ChevronUp } from "lucide-react"
 
 
 const footerLinks = [

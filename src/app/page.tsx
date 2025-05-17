@@ -1,14 +1,10 @@
 import Bigection from "@/components/bigapp"
 import DesignSection from "@/components/design"
 import DiscoverSection from "@/components/discoverd-section"
-import Header from "@/components/header"
 import HeroSection from "@/components/hero_sec"
 import JoinCompanies from "@/components/join"
 import TargetSection from "@/components/target"
 import ToolsSection from "@/components/tools"
-
-
-import TrustedCompaniesSection from "@/components/tools"
 import WorkSection from "@/components/work"
 
 export default function Home() {
