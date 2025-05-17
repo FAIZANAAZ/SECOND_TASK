@@ -12,7 +12,7 @@ export default function Home() {
     <main className="min-h-screen">
       
       <HeroSection />
-      <div className=" px-4 bg-[#0F172A]  sm:px-[50px] md:px-[105px]">
+      <div className=" px-4 bg-[#0F172A]  sm:px-[50px] md:px-[105px] gap-y-3">
       <JoinCompanies/>
       <DiscoverSection />
       <ToolsSection />
