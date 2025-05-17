@@ -5,7 +5,7 @@ import Image from "next/image"
 
 export default function HeroSection() {
   return (
-    <main className=" flex flex-col items-center justify-center bg-[#0F172A] p-4 md:p-8 lg:p-24 overflow-hidden text-white">
+    <main className="md:min-h-screen flex flex-col items-center justify-center bg-[#0F172A] p-4 md:p-8 lg:p-24 overflow-hidden text-white">
       {/* Header with title and ampersand */}
       <div className="relative w-full max-w-4xl mb-6 md:mb-12 flex items-center justify-center text-center">
         <motion.span
